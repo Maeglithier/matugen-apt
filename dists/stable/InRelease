@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Codename: stable
+Date: Sun, 23 Jun 2024 16:52:17 UTC
+Architectures: amd64
+Components: main
+Description: Unofficial APT repository for Debian/Ubuntu client of Matugen
+MD5Sum:
+ 80850fa36af3999d84823e1b7119292f 393 main/binary-amd64/Packages
+ ad82fad96228444cde16f30f39bacb35 303 main/binary-amd64/Packages.gz
+ 10d8e28fa5e5088020b4c72476d0bca9 111 main/binary-amd64/Release
+SHA1:
+ e71b9831f099344ef4264428e816f36c3b2512aa 393 main/binary-amd64/Packages
+ 3f11709b386434fdd8e55a46723be69e9081fe64 303 main/binary-amd64/Packages.gz
+ b6664ddb342d47a44214905a222c37861bc021fd 111 main/binary-amd64/Release
+SHA256:
+ 51846ae5d50af8bce56c96a7bc08034e2c6b8747b2756a012a965aeca95fdb96 393 main/binary-amd64/Packages
+ e983fe570948d98449d1c17524235e4f38d0c6809361c419924017d00f51a381 303 main/binary-amd64/Packages.gz
+ 4d023d2cc40616d105b83eeeb8b990348a2bca64c2917cf0fba0c59abf0c8d96 111 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEjZYEqrWOcwLG2HGpr+aWuyXVi4YFAmZ4UsEACgkQr+aWuyXV
+i4Y0PBAAmhzEHKyaymk5n7VZTJT+b6KS0GbWKjurmuJdW3KzFDIYE0MGswCd394/
+9C53t5dDm3ajEHZQKoPhdM6dZ2CSSsxXbXakBRuRffevGNwqm0Bk2/zRV1E7/u/L
+hE4BjlP9lUva/YxOm+9ElrFVhiuDMWOiItF/va7q1ncoj90Mjt7W4NJKqjrZSVVL
+zuPx8LycikfXu0wKVpEcTN1aUzGs59mjJ22gH32kH615fOqT8htzutJhR4ZH/BHN
+8MqKTSraP45Xl/BH2EvR49ba1Y1MuCrAtf6WJhPHqnNrONlT4k2cy/9RdKXu1S4h
+HS5k5qdLfhUF0X5v87eOTshSr+NxNLIViZ+3/pNBFdxNzQU0qS8LXorCYfmYNyx6
+Ouep/LUoly6d8PZGu197YKdSrkupaJR9CJPceA18c+swmbwSYdTfEDrh6EzvPxYW
+HX0iwn8PLoqLIT+AWfdu3djWg0dfEEyoB6kWu+UHPX+MsrqnZhq8SLIXgxlbv6Ii
+iKUeXIvyd318nYyBQkLUY6wTxtKTvCSnzGRFTlS2bTyikJgrIZduEqvFYeyhrIgS
+BisXXPLSYr/KTapq+nvHphrN3lJWGwdIriHUpfGqf9mpdJqI/ikOimazaky+O/Dg
+UJod3e/rNq5GW/I1+Mr92yipDQhsyxsqj0gJT4VtCQbsU0AK3iU=
+=pawK
+-----END PGP SIGNATURE-----

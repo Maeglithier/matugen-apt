@@ -1,0 +1,17 @@
+Codename: stable
+Date: Sun, 23 Jun 2024 16:52:17 UTC
+Architectures: amd64
+Components: main
+Description: Unofficial APT repository for Debian/Ubuntu client of Matugen
+MD5Sum:
+ 80850fa36af3999d84823e1b7119292f 393 main/binary-amd64/Packages
+ ad82fad96228444cde16f30f39bacb35 303 main/binary-amd64/Packages.gz
+ 10d8e28fa5e5088020b4c72476d0bca9 111 main/binary-amd64/Release
+SHA1:
+ e71b9831f099344ef4264428e816f36c3b2512aa 393 main/binary-amd64/Packages
+ 3f11709b386434fdd8e55a46723be69e9081fe64 303 main/binary-amd64/Packages.gz
+ b6664ddb342d47a44214905a222c37861bc021fd 111 main/binary-amd64/Release
+SHA256:
+ 51846ae5d50af8bce56c96a7bc08034e2c6b8747b2756a012a965aeca95fdb96 393 main/binary-amd64/Packages
+ e983fe570948d98449d1c17524235e4f38d0c6809361c419924017d00f51a381 303 main/binary-amd64/Packages.gz
+ 4d023d2cc40616d105b83eeeb8b990348a2bca64c2917cf0fba0c59abf0c8d96 111 main/binary-amd64/Release

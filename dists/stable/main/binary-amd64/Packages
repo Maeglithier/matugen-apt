@@ -1,0 +1,13 @@
+Package: matugen
+Version: 2.3.0
+Architecture: amd64
+Maintainer: Maeglithier
+Priority: optional
+Section: default
+Filename: pool/main/m/matugen/matugen_2.3.0_amd64.deb
+Size: 3295068
+SHA256: e7c72b1168403bad71b4ca3851ded85c36c8b319f46a2b530886b1c2199e3041
+SHA1: 3878aed3481017cff32f9f5abfebb4f8ccc39367
+MD5sum: 3f29e2445c7a7ddc417675416a409cd3
+Description: A material you color generation tool.
+

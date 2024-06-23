@@ -28,7 +28,7 @@ sudo rm /etc/apt/sources.list.d/matugen.list
 
 # Checksum
 
-60a813f9e246c95205670e429dfe8987594575e58f1b066707c7d790c4238a46  pool/main/m/matugen/matugen_2.3.0_amd64.deb
+e7c72b1168403bad71b4ca3851ded85c36c8b319f46a2b530886b1c2199e3041  pool/main/m/matugen/matugen_2.3.0_amd64.deb
 
 # Copyright
 O instalador do Matugen (arquivos deb) é compilado usando os binários oficiais, e em respeito a licença oficial são distribuidos sob a licença GPL-2.0.
